@@ -1,0 +1,13 @@
+C:\Users\daini\Projects\masters\ImageProccessing\ImageProcessing\bin\Debug\netcoreapp3.0\ImageProcessing.exe
+C:\Users\daini\Projects\masters\ImageProccessing\ImageProcessing\bin\Debug\netcoreapp3.0\ImageProcessing.deps.json
+C:\Users\daini\Projects\masters\ImageProccessing\ImageProcessing\bin\Debug\netcoreapp3.0\ImageProcessing.runtimeconfig.json
+C:\Users\daini\Projects\masters\ImageProccessing\ImageProcessing\bin\Debug\netcoreapp3.0\ImageProcessing.runtimeconfig.dev.json
+C:\Users\daini\Projects\masters\ImageProccessing\ImageProcessing\bin\Debug\netcoreapp3.0\ImageProcessing.dll
+C:\Users\daini\Projects\masters\ImageProccessing\ImageProcessing\bin\Debug\netcoreapp3.0\ImageProcessing.pdb
+C:\Users\daini\Projects\masters\ImageProccessing\ImageProcessing\obj\Debug\netcoreapp3.0\ImageProcessing.AssemblyInfoInputs.cache
+C:\Users\daini\Projects\masters\ImageProccessing\ImageProcessing\obj\Debug\netcoreapp3.0\ImageProcessing.AssemblyInfo.cs
+C:\Users\daini\Projects\masters\ImageProccessing\ImageProcessing\obj\Debug\netcoreapp3.0\ImageProcessing.dll
+C:\Users\daini\Projects\masters\ImageProccessing\ImageProcessing\obj\Debug\netcoreapp3.0\ImageProcessing.pdb
+C:\Users\daini\Projects\masters\ImageProccessing\ImageProcessing\obj\Debug\netcoreapp3.0\ImageProcessing.Properties.Resources.resources
+C:\Users\daini\Projects\masters\ImageProccessing\ImageProcessing\obj\Debug\netcoreapp3.0\ImageProcessing.csproj.GenerateResource.cache
+C:\Users\daini\Projects\masters\ImageProccessing\ImageProcessing\obj\Debug\netcoreapp3.0\ImageProcessing.csprojAssemblyReference.cache
