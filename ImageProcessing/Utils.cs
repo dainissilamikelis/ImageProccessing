@@ -1,10 +1,13 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Drawing;
+using System.Drawing.Imaging;
+using System.Runtime.InteropServices;
 using System.Text;
 
 namespace ImageProcessing
 {
-    static class utils
+    static class Utils
     {
         public static void handleError(string error, bool debug = false)
         {
@@ -15,7 +18,8 @@ namespace ImageProcessing
             Console.WriteLine("###############################################");
         }
 
-        public static bool doAnotherHomeWork () {
+        public static bool doAnotherHomeWork()
+        {
             Console.WriteLine("Press Y to do another homework");
             Console.WriteLine("Press any other key to quit application");
             ConsoleKeyInfo key = Console.ReadKey();

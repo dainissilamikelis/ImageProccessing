@@ -8,7 +8,6 @@ namespace ImageProcessing
         {
             Console.WriteLine("Press {0} to see #{0} homework for {1}", number, title);
         }
-
         static void HomeWorkChooser()
         {
             var doAnotherHomeWork = false;
